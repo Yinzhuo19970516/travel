@@ -1,7 +1,11 @@
 # travel
 
 > A Vue.js project
+pc端预览地址：
 
+https://yinzhuo19970516.github.io/Travel/
+
+移动端预览地址：
 
 ![image](https://github.com/Yinzhuo19970516/Travel/raw/master/img0.0/1535341758.png)
 ## Build Setup
