@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+
+![image](https://github.com/Yinzhuo19970516/Travel/raw/master/img0.0/1535341758.png)
 ## Build Setup
 
 ``` bash
