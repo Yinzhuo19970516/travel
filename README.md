@@ -1,6 +1,12 @@
 # travel
 
 > A Vue.js project
+仿去哪儿web_app
+实现首页，城市和详情页面的布局。
+
+完成动态路由，轮播图，渐隐渐现，基础动画，组件传值等功能和效果。
+
+主要使用技术：Vue.js,Vue-router,Vuex,Ajax,Swiper,Better-scroll
 pc端预览地址：
 
 https://yinzhuo19970516.github.io/Travel/
