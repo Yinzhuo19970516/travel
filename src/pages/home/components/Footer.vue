@@ -56,6 +56,10 @@
     margin-bottom .4rem
   .item
     text-align center
+<<<<<<< HEAD
     margin-bottom  .4rem
+=======
+    padding-bottom  .4rem
+>>>>>>> test
 
 </style>
