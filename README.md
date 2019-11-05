@@ -13,7 +13,7 @@ https://yinzhuo19970516.github.io/Travel/
 
 移动端预览地址：
 
-![image](./img0.0/1535341758.png)
+![](src/assets/1535341758.png)
 ## Build Setup
 
 ``` bash
