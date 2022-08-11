@@ -7,13 +7,10 @@
 完成动态路由，轮播图，渐隐渐现，基础动画，组件传值等功能和效果。
 
 主要使用技术：Vue.js,Vue-router,Vuex,Ajax,Swiper,Better-scroll
-pc端预览地址：
+预览地址：
 
-https://yinzhuo19970516.github.io/Travel/
+https://yinzhuo19970516.github.io/travel/
 
-移动端预览地址：
-
-![](http://129.204.118.251:1234/photos/1535341758.png)
 ## Build Setup
 
 ``` bash
